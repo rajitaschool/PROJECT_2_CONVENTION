@@ -231,6 +231,10 @@ nav ul li a:hover{
     margin: 5px;
 }
 
+.hoverCaption {
+    font-size: 12px;
+}
+
 @keyframes AnimationName { /* This is the animation required in order to create the effect of the colors moving right to left, required to according to w3schools (Where I found this)*/
     0%{background-position:0% 50%}
     50%{background-position:100% 51%}
